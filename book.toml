@@ -1,0 +1,6 @@
+[book]
+authors = ["Aung Myat Moe"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The PHP Programming Language"
